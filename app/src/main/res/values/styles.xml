@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Ana tema rengi -->
+        <item name="colorPrimary">#24EE00</item>
+        <!-- Üst bar rengi (durum çubuğu) -->
+        <item name="colorPrimaryDark">#24EE00</item>
+        <!-- Vurgu rengi -->
+
+    </style>
+</resources>

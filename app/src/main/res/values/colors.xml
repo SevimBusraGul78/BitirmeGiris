@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Mevcut renklerin yanında şu renkleri ekle -->
+    <color name="gradient_start">#FFD3FC</color>
+    <color name="gradient_end">#FF8CFF</color>
+    <color name="button_gradient_start">#FF9A8C</color>
+    <color name="button_gradient_end">#FF6EFD</color>
+    <color name="outline_stroke">#FF6EFD</color>
+    <color name="green">#32CD32</color>
+    <color name="greenbu">#7CFC00</color>
+
+</resources>
